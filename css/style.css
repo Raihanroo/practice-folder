@@ -123,3 +123,81 @@ main{
     font-size: 20px;
     color: black;
 }
+
+/* what i do */
+
+.what-i-do{
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+.section-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 80px;
+}
+.skill{
+    background: #ffff;
+    box-shadow: 0px 6px 50px rgba(0,0,0,0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: gray;
+    font-size: 18.5px;
+}
+
+/* resume title */
+
+.resume-main{
+    text-align: center;
+    margin-top: 80px;
+    font-weight: 700;
+    font-size: 25px;
+}
+.resume-title{
+    margin-top: 80px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-contain{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: rgb(10, 10, 10);
+    margin-bottom: 10px;
+}
+.resume .sub-title{
+    color: gray;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.resume .desription{
+    color: gray;
+}
+
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+    
+}
